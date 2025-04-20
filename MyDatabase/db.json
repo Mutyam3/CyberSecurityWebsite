@@ -1,0 +1,50 @@
+{
+
+    "teamLogos" : [
+        "https://i.postimg.cc/Rhz0Qfz0/envoy.png",
+        "https://i.postimg.cc/DwGYRXVh/pngwing-com-1.png",
+        "https://i.postimg.cc/ZKBfyd5N/pngwing-com-2.png",
+        "https://i.postimg.cc/d1f2q5dx/apple.png",
+        "https://i.postimg.cc/5tT5JP8k/Achmea-logo.png",
+        "https://i.postimg.cc/bNyt7XKw/github.png",
+        "https://i.postimg.cc/d1JshFR7/Groww-app-logo.png"
+    ],
+
+    "cyberSecurityServices" : [
+
+        {   "icon" : "bi bi-globe",
+            "name" : "Web App Pentesting",
+             "description" : "Comprehensive security assessment of web applications to identify vulnerabilities and weaknesses."
+        },
+        {
+            "icon" : "bi bi-phone",
+            "name" : "Mobile App Pentesting",
+            "description" : "Comprehensive security assessment of mobile applications to identify vulnerabilities and weaknesses."
+        },
+
+        {
+            "icon" : "bi bi-filetype-json",
+            "name" : "API Pentesting",
+            "description" : "Comprehensive security assessment of API to identify vulnerabilities and weaknesses."
+        },
+        {
+            "icon" : "bi bi-cloud",
+            "name" : "Cloud Pentesting",
+            "description" : "Comprehensive security assessment of mobile cloud to identify vulnerabilities and weaknesses."
+        },
+        {
+            "icon" : "bi bi-reception-3",
+            "name" : "External Networking Pentesting",
+            "description" : "Comprehensive security assessment of network to identify vulnerabilities and weaknesses."
+        },
+        {
+            "icon" : "bi bi-file-earmark-code",
+            "name" : "Source Code Review",
+            "description" : "Comprehensive security assessment of code to identify vulnerabilities and weaknesses."
+        }
+    ]
+
+
+
+
+}
