@@ -251,6 +251,8 @@ function Home(){
 
         </section>
 
+        {/* sixth Section */}
+
         <section>
 
         </section>
