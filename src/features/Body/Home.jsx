@@ -257,6 +257,7 @@ function Home(){
 
         </section>
 
+         {/* seventh section */}
         <section>
 
         </section>
