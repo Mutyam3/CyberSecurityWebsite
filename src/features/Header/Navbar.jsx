@@ -17,24 +17,11 @@ function Navbar(){
                           webAppPenTestingPath : 'services/web-app-pentesting',
                           mobileAppPenTesting : 'Mobile App Pentesting',
                           mobileAppPenTestingPath : 'services/mobile-app-pentesting',
-                          apiPentesting : 'API Pentesting',
-                          apiPentestingPath : 'service/api-pentesting',
-                          cloudPentesting : 'Cloud Pentesting',
-                          cloudPentestingPath : 'services/cloud-pentesting',
-                          externalNetworkPentesting : 'External Network Pentesting',
-                          externalNetworkPentestingPath : 'services/external-networking-pentesting',
-                          sourceCodeReview : 'Source Code Review',
-                          sourceCodeReviewPath : 'services/source-code-review',
                           bugBountyManagement : 'Bug Bounty Management',
                           bugBountyManagementPath : 'services/bug-bounty-management'
                       },
                     
-                      {
-
-                        vulnhut : 'Vulnhut',
-                        vulnhutPath : 'products/vulhuntPath'
-
-                      }]
+                    ]
 
 
     return (
@@ -49,7 +36,6 @@ function Navbar(){
                     <li type='none' className='fs-5 navbox hoverDiv'>About Us <HoverDiv  hoverVarZero = {subNavDiv[0]}/></li>
                     <li type='none' className='fs-5 navbox hoverDiv'>Services <HoverDiv hoverVarOne = {subNavDiv[1]}/></li>
                     <Link to='/our-work' className='navbox'><li type='none' className='fs-5'>Our Work</li></Link>
-                    <li type='none' className='fs-5 navbox hoverDiv'>Products <HoverDiv hoverVarTwo = {subNavDiv[2]}/></li>
               </div>
 
               <div className=''>

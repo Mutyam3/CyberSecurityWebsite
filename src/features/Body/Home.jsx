@@ -64,7 +64,7 @@ function Home(){
                    <button className='w-50 border border-0 rounded p-2'>Talk to an Expert</button>
                </div>
 
-               <img src={hero} height='500px'/>
+               
              
                
         </section>
