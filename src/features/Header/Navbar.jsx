@@ -25,7 +25,7 @@ function Navbar(){
 
 
     return (
-        <section className='border border-dark p-2  rounded d-flex justify-content-around align-items-center sideMargin' style={{position : 'sticky', top:'0%'}}>
+        <section className='border border-dark p-2  rounded d-flex justify-content-around align-items-center sideMargin' style={{position : 'sticky', top:'0%' , backgroundColor:'black', color:'whitesmoke'}}>
                 
               <div className='m-3'>
                 <Link to='/home' className='navbox'><h3>Pentax</h3></Link>
