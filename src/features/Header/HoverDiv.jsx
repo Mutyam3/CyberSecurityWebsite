@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function HoverDiv({hoverVarZero,hoverVarOne}){
 
     // console.log(hoverVarZero)
-    // console.log(hoverVarOne)
+    console.log(hoverVarOne)
     console.log(hoverVarTwo)
     
     return(
