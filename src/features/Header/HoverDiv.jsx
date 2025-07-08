@@ -5,7 +5,7 @@ function HoverDiv({hoverVarZero,hoverVarOne}){
 
     // console.log(hoverVarZero)
     console.log(hoverVarOne)
-    // console.log(hoverVarTwo)
+    console.log(hoverVarTwo)
     
     return(
         <section className='navboxLi navbox border border-2 rounded'>
